@@ -1,0 +1,1 @@
+This projects is the first of Odin Projects. The objective is pratice the HTML basics knowledge creating a website of recipes.
